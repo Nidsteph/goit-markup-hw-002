@@ -14,7 +14,7 @@ a.webstudio {
     color: #2196F3;
 }
 
-.navigator {
+a.navigators {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -24,7 +24,7 @@ a.webstudio {
     color: #212121;
 }
 
-.navigator:hover {
+.navigators:hover {
     color: #2196F3;
 }
 

@@ -24,9 +24,10 @@ a.navigators {
     color: #212121;
 }
 
-.navigators:hover {
-    color: #2196F3;
+.navigator li a:hover {
+    color: #FF96F3;
 }
+
 
 .contact-info {
     color: #757575;

@@ -1,7 +1,4 @@
-@font-face {
-    font-family: Raleway;
-    src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
 
 .webstudio {
     font-family: 'Raleway';
@@ -34,8 +31,4 @@ ul.navigator:hover {
 
 .contact-info:hover {
     color: #2196F3;
-}
-
-body {
-    color: red;
 }

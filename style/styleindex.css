@@ -11,8 +11,8 @@ a.webstudio {
     color: #2196F3;
 }
 
-a.navigators {
-    font-family: 'Roboto';
+a.navigator {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -26,11 +26,11 @@ a.navigators {
 }
 
 
-.contact-info {
+a.contact-info {
     color: #757575;
 }
 
-.contact-info:hover {
+a.contact-info:hover {
     color: #2196F3;
 }
 

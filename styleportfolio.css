@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Raleway;
+    src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+}
+
 .webstudio a {
     font-family: 'Raleway';
     font-style: normal;

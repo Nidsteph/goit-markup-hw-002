@@ -41,3 +41,13 @@
 .contact-info:hover {
     color: #2196F3;
 }
+
+
+
+.button {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}

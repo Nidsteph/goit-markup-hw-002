@@ -3,7 +3,7 @@
     src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 }
 
-.webstudio a {
+a.webstudio {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -29,13 +29,14 @@
     color: #2196F3;
 }
 
-
-
-
 .contact-info {
     color: #757575;
 }
 
 .contact-info:hover {
     color: #2196F3;
+}
+
+body {
+    color: red;
 }

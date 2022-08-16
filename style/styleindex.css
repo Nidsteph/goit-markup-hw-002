@@ -4,7 +4,7 @@
 }
 
 
-.webstudio a {
+a.webstudio {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -13,9 +13,6 @@
     letter-spacing: 0.03em;
     color: #2196F3;
 }
-
-
-
 
 .navigator ul {
     font-family: 'Roboto';
@@ -31,9 +28,6 @@
     color: #2196F3;
 }
 
-
-
-
 .contact-info {
     color: #757575;
 }
@@ -43,11 +37,14 @@
 }
 
 
-
 .button {
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
+}
+
+body {
+    color: red;
 }

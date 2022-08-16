@@ -161,5 +161,11 @@ a.map {
 }
 
 a.contact-info-footer {
-    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
 }
